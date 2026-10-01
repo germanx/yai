@@ -1,4 +1,8 @@
 # Yandex free course
+
+## install
+source .venv/bin/activate
+
 pip install requests numpy sentence-transformers faiss-cpu pypdf
 
 - for Jupyter NB only
